@@ -1,0 +1,3002 @@
+[
+  {
+    "common_name": "Peace Lily #1",
+    "scientific_name": "Spathiphyllum spp. var. a",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #2",
+    "scientific_name": "Epipremnum aureum var. b",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #3",
+    "scientific_name": "Dracaena trifasciata var. c",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #4",
+    "scientific_name": "Epipremnum aureum var. d",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #5",
+    "scientific_name": "Chlorophytum comosum var. e",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #6",
+    "scientific_name": "Dracaena trifasciata var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #7",
+    "scientific_name": "Chlorophytum comosum var. g",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #8",
+    "scientific_name": "Spathiphyllum spp. var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #9",
+    "scientific_name": "Zamioculcas zamiifolia var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #10",
+    "scientific_name": "Zamioculcas zamiifolia var. j",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #11",
+    "scientific_name": "Chlorophytum comosum var. k",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #12",
+    "scientific_name": "Spathiphyllum spp. var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #13",
+    "scientific_name": "Zamioculcas zamiifolia var. m",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #14",
+    "scientific_name": "Spathiphyllum spp. var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #15",
+    "scientific_name": "Chlorophytum comosum var. o",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #16",
+    "scientific_name": "Zamioculcas zamiifolia var. p",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #17",
+    "scientific_name": "Epipremnum aureum var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #18",
+    "scientific_name": "Spathiphyllum spp. var. r",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #19",
+    "scientific_name": "Zamioculcas zamiifolia var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #20",
+    "scientific_name": "Dracaena trifasciata var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #21",
+    "scientific_name": "Spathiphyllum spp. var. u",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #22",
+    "scientific_name": "Chlorophytum comosum var. v",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #23",
+    "scientific_name": "Zamioculcas zamiifolia var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #24",
+    "scientific_name": "Chlorophytum comosum var. x",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #25",
+    "scientific_name": "Dracaena trifasciata var. y",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #26",
+    "scientific_name": "Epipremnum aureum var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #27",
+    "scientific_name": "Epipremnum aureum var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #28",
+    "scientific_name": "Chlorophytum comosum var. b",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #29",
+    "scientific_name": "Spathiphyllum spp. var. c",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #30",
+    "scientific_name": "Dracaena trifasciata var. d",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #31",
+    "scientific_name": "Chlorophytum comosum var. e",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #32",
+    "scientific_name": "Epipremnum aureum var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #33",
+    "scientific_name": "Zamioculcas zamiifolia var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #34",
+    "scientific_name": "Spathiphyllum spp. var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #35",
+    "scientific_name": "Epipremnum aureum var. i",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #36",
+    "scientific_name": "Epipremnum aureum var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #37",
+    "scientific_name": "Dracaena trifasciata var. k",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #38",
+    "scientific_name": "Chlorophytum comosum var. l",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #39",
+    "scientific_name": "Zamioculcas zamiifolia var. m",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #40",
+    "scientific_name": "Epipremnum aureum var. n",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #41",
+    "scientific_name": "Zamioculcas zamiifolia var. o",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #42",
+    "scientific_name": "Zamioculcas zamiifolia var. p",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #43",
+    "scientific_name": "Dracaena trifasciata var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #44",
+    "scientific_name": "Chlorophytum comosum var. r",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #45",
+    "scientific_name": "Chlorophytum comosum var. s",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #46",
+    "scientific_name": "Dracaena trifasciata var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #47",
+    "scientific_name": "Chlorophytum comosum var. u",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #48",
+    "scientific_name": "Epipremnum aureum var. v",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #49",
+    "scientific_name": "Zamioculcas zamiifolia var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #50",
+    "scientific_name": "Epipremnum aureum var. x",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #51",
+    "scientific_name": "Zamioculcas zamiifolia var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #52",
+    "scientific_name": "Zamioculcas zamiifolia var. z",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #53",
+    "scientific_name": "Epipremnum aureum var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #54",
+    "scientific_name": "Epipremnum aureum var. b",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #55",
+    "scientific_name": "Spathiphyllum spp. var. c",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #56",
+    "scientific_name": "Chlorophytum comosum var. d",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #57",
+    "scientific_name": "Spathiphyllum spp. var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #58",
+    "scientific_name": "Dracaena trifasciata var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #59",
+    "scientific_name": "Epipremnum aureum var. g",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #60",
+    "scientific_name": "Chlorophytum comosum var. h",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #61",
+    "scientific_name": "Epipremnum aureum var. i",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #62",
+    "scientific_name": "Zamioculcas zamiifolia var. j",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #63",
+    "scientific_name": "Dracaena trifasciata var. k",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #64",
+    "scientific_name": "Epipremnum aureum var. l",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #65",
+    "scientific_name": "Dracaena trifasciata var. m",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #66",
+    "scientific_name": "Zamioculcas zamiifolia var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #67",
+    "scientific_name": "Zamioculcas zamiifolia var. o",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #68",
+    "scientific_name": "Epipremnum aureum var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #69",
+    "scientific_name": "Epipremnum aureum var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #70",
+    "scientific_name": "Spathiphyllum spp. var. r",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #71",
+    "scientific_name": "Spathiphyllum spp. var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #72",
+    "scientific_name": "Chlorophytum comosum var. t",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #73",
+    "scientific_name": "Epipremnum aureum var. u",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #74",
+    "scientific_name": "Chlorophytum comosum var. v",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #75",
+    "scientific_name": "Zamioculcas zamiifolia var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #76",
+    "scientific_name": "Epipremnum aureum var. x",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #77",
+    "scientific_name": "Zamioculcas zamiifolia var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #78",
+    "scientific_name": "Dracaena trifasciata var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #79",
+    "scientific_name": "Spathiphyllum spp. var. a",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #80",
+    "scientific_name": "Dracaena trifasciata var. b",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #81",
+    "scientific_name": "Chlorophytum comosum var. c",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #82",
+    "scientific_name": "Zamioculcas zamiifolia var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #83",
+    "scientific_name": "Zamioculcas zamiifolia var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #84",
+    "scientific_name": "Zamioculcas zamiifolia var. f",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #85",
+    "scientific_name": "Chlorophytum comosum var. g",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #86",
+    "scientific_name": "Dracaena trifasciata var. h",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #87",
+    "scientific_name": "Epipremnum aureum var. i",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #88",
+    "scientific_name": "Dracaena trifasciata var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #89",
+    "scientific_name": "Epipremnum aureum var. k",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #90",
+    "scientific_name": "Dracaena trifasciata var. l",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #91",
+    "scientific_name": "Chlorophytum comosum var. m",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #92",
+    "scientific_name": "Epipremnum aureum var. n",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #93",
+    "scientific_name": "Dracaena trifasciata var. o",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #94",
+    "scientific_name": "Epipremnum aureum var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #95",
+    "scientific_name": "Spathiphyllum spp. var. q",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #96",
+    "scientific_name": "Epipremnum aureum var. r",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #97",
+    "scientific_name": "Dracaena trifasciata var. s",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #98",
+    "scientific_name": "Spathiphyllum spp. var. t",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #99",
+    "scientific_name": "Zamioculcas zamiifolia var. u",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #100",
+    "scientific_name": "Zamioculcas zamiifolia var. v",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #101",
+    "scientific_name": "Epipremnum aureum var. w",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #102",
+    "scientific_name": "Epipremnum aureum var. x",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #103",
+    "scientific_name": "Zamioculcas zamiifolia var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #104",
+    "scientific_name": "Epipremnum aureum var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #105",
+    "scientific_name": "Dracaena trifasciata var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #106",
+    "scientific_name": "Spathiphyllum spp. var. b",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #107",
+    "scientific_name": "Zamioculcas zamiifolia var. c",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #108",
+    "scientific_name": "Spathiphyllum spp. var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #109",
+    "scientific_name": "Spathiphyllum spp. var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #110",
+    "scientific_name": "Zamioculcas zamiifolia var. f",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #111",
+    "scientific_name": "Dracaena trifasciata var. g",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #112",
+    "scientific_name": "Spathiphyllum spp. var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #113",
+    "scientific_name": "Zamioculcas zamiifolia var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #114",
+    "scientific_name": "Spathiphyllum spp. var. j",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #115",
+    "scientific_name": "Chlorophytum comosum var. k",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #116",
+    "scientific_name": "Dracaena trifasciata var. l",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #117",
+    "scientific_name": "Epipremnum aureum var. m",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #118",
+    "scientific_name": "Dracaena trifasciata var. n",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #119",
+    "scientific_name": "Epipremnum aureum var. o",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #120",
+    "scientific_name": "Epipremnum aureum var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #121",
+    "scientific_name": "Spathiphyllum spp. var. q",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #122",
+    "scientific_name": "Spathiphyllum spp. var. r",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #123",
+    "scientific_name": "Spathiphyllum spp. var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #124",
+    "scientific_name": "Dracaena trifasciata var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #125",
+    "scientific_name": "Chlorophytum comosum var. u",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #126",
+    "scientific_name": "Dracaena trifasciata var. v",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #127",
+    "scientific_name": "Dracaena trifasciata var. w",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #128",
+    "scientific_name": "Epipremnum aureum var. x",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #129",
+    "scientific_name": "Spathiphyllum spp. var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #130",
+    "scientific_name": "Epipremnum aureum var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #131",
+    "scientific_name": "Chlorophytum comosum var. a",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #132",
+    "scientific_name": "Zamioculcas zamiifolia var. b",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #133",
+    "scientific_name": "Spathiphyllum spp. var. c",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #134",
+    "scientific_name": "Zamioculcas zamiifolia var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #135",
+    "scientific_name": "Dracaena trifasciata var. e",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #136",
+    "scientific_name": "Spathiphyllum spp. var. f",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #137",
+    "scientific_name": "Zamioculcas zamiifolia var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #138",
+    "scientific_name": "Spathiphyllum spp. var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #139",
+    "scientific_name": "Epipremnum aureum var. i",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #140",
+    "scientific_name": "Epipremnum aureum var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #141",
+    "scientific_name": "Chlorophytum comosum var. k",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #142",
+    "scientific_name": "Zamioculcas zamiifolia var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #143",
+    "scientific_name": "Dracaena trifasciata var. m",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #144",
+    "scientific_name": "Spathiphyllum spp. var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #145",
+    "scientific_name": "Chlorophytum comosum var. o",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #146",
+    "scientific_name": "Epipremnum aureum var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #147",
+    "scientific_name": "Epipremnum aureum var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #148",
+    "scientific_name": "Zamioculcas zamiifolia var. r",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #149",
+    "scientific_name": "Spathiphyllum spp. var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #150",
+    "scientific_name": "Spathiphyllum spp. var. t",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #151",
+    "scientific_name": "Zamioculcas zamiifolia var. u",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #152",
+    "scientific_name": "Spathiphyllum spp. var. v",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #153",
+    "scientific_name": "Dracaena trifasciata var. w",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #154",
+    "scientific_name": "Chlorophytum comosum var. x",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #155",
+    "scientific_name": "Zamioculcas zamiifolia var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #156",
+    "scientific_name": "Dracaena trifasciata var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #157",
+    "scientific_name": "Epipremnum aureum var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #158",
+    "scientific_name": "Zamioculcas zamiifolia var. b",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #159",
+    "scientific_name": "Chlorophytum comosum var. c",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #160",
+    "scientific_name": "Spathiphyllum spp. var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #161",
+    "scientific_name": "Zamioculcas zamiifolia var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #162",
+    "scientific_name": "Dracaena trifasciata var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #163",
+    "scientific_name": "Spathiphyllum spp. var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #164",
+    "scientific_name": "Zamioculcas zamiifolia var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #165",
+    "scientific_name": "Chlorophytum comosum var. i",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #166",
+    "scientific_name": "Dracaena trifasciata var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #167",
+    "scientific_name": "Zamioculcas zamiifolia var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #168",
+    "scientific_name": "Zamioculcas zamiifolia var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #169",
+    "scientific_name": "Chlorophytum comosum var. m",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #170",
+    "scientific_name": "Dracaena trifasciata var. n",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #171",
+    "scientific_name": "Epipremnum aureum var. o",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #172",
+    "scientific_name": "Chlorophytum comosum var. p",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #173",
+    "scientific_name": "Spathiphyllum spp. var. q",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #174",
+    "scientific_name": "Zamioculcas zamiifolia var. r",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #175",
+    "scientific_name": "Chlorophytum comosum var. s",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #176",
+    "scientific_name": "Zamioculcas zamiifolia var. t",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #177",
+    "scientific_name": "Chlorophytum comosum var. u",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #178",
+    "scientific_name": "Dracaena trifasciata var. v",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #179",
+    "scientific_name": "Spathiphyllum spp. var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #180",
+    "scientific_name": "Epipremnum aureum var. x",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #181",
+    "scientific_name": "Zamioculcas zamiifolia var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #182",
+    "scientific_name": "Spathiphyllum spp. var. z",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #183",
+    "scientific_name": "Epipremnum aureum var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #184",
+    "scientific_name": "Dracaena trifasciata var. b",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #185",
+    "scientific_name": "Epipremnum aureum var. c",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #186",
+    "scientific_name": "Zamioculcas zamiifolia var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #187",
+    "scientific_name": "Spathiphyllum spp. var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #188",
+    "scientific_name": "Epipremnum aureum var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #189",
+    "scientific_name": "Chlorophytum comosum var. g",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #190",
+    "scientific_name": "Zamioculcas zamiifolia var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #191",
+    "scientific_name": "Spathiphyllum spp. var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #192",
+    "scientific_name": "Zamioculcas zamiifolia var. j",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #193",
+    "scientific_name": "Spathiphyllum spp. var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #194",
+    "scientific_name": "Spathiphyllum spp. var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #195",
+    "scientific_name": "Dracaena trifasciata var. m",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #196",
+    "scientific_name": "Zamioculcas zamiifolia var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #197",
+    "scientific_name": "Spathiphyllum spp. var. o",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #198",
+    "scientific_name": "Chlorophytum comosum var. p",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #199",
+    "scientific_name": "Chlorophytum comosum var. q",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #200",
+    "scientific_name": "Chlorophytum comosum var. r",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #201",
+    "scientific_name": "Dracaena trifasciata var. s",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #202",
+    "scientific_name": "Epipremnum aureum var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #203",
+    "scientific_name": "Epipremnum aureum var. u",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #204",
+    "scientific_name": "Dracaena trifasciata var. v",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #205",
+    "scientific_name": "Epipremnum aureum var. w",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #206",
+    "scientific_name": "Spathiphyllum spp. var. x",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #207",
+    "scientific_name": "Spathiphyllum spp. var. y",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #208",
+    "scientific_name": "Spathiphyllum spp. var. z",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #209",
+    "scientific_name": "Zamioculcas zamiifolia var. a",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #210",
+    "scientific_name": "Zamioculcas zamiifolia var. b",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #211",
+    "scientific_name": "Epipremnum aureum var. c",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #212",
+    "scientific_name": "Dracaena trifasciata var. d",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #213",
+    "scientific_name": "Zamioculcas zamiifolia var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #214",
+    "scientific_name": "Dracaena trifasciata var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #215",
+    "scientific_name": "Spathiphyllum spp. var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #216",
+    "scientific_name": "Spathiphyllum spp. var. h",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #217",
+    "scientific_name": "Spathiphyllum spp. var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #218",
+    "scientific_name": "Epipremnum aureum var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #219",
+    "scientific_name": "Zamioculcas zamiifolia var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #220",
+    "scientific_name": "Dracaena trifasciata var. l",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #221",
+    "scientific_name": "Epipremnum aureum var. m",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #222",
+    "scientific_name": "Dracaena trifasciata var. n",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #223",
+    "scientific_name": "Chlorophytum comosum var. o",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #224",
+    "scientific_name": "Dracaena trifasciata var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #225",
+    "scientific_name": "Dracaena trifasciata var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #226",
+    "scientific_name": "Dracaena trifasciata var. r",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #227",
+    "scientific_name": "Zamioculcas zamiifolia var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #228",
+    "scientific_name": "Dracaena trifasciata var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #229",
+    "scientific_name": "Dracaena trifasciata var. u",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #230",
+    "scientific_name": "Chlorophytum comosum var. v",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #231",
+    "scientific_name": "Spathiphyllum spp. var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #232",
+    "scientific_name": "Chlorophytum comosum var. x",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #233",
+    "scientific_name": "Chlorophytum comosum var. y",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #234",
+    "scientific_name": "Epipremnum aureum var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #235",
+    "scientific_name": "Epipremnum aureum var. a",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #236",
+    "scientific_name": "Dracaena trifasciata var. b",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #237",
+    "scientific_name": "Chlorophytum comosum var. c",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #238",
+    "scientific_name": "Epipremnum aureum var. d",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #239",
+    "scientific_name": "Zamioculcas zamiifolia var. e",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #240",
+    "scientific_name": "Dracaena trifasciata var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #241",
+    "scientific_name": "Zamioculcas zamiifolia var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #242",
+    "scientific_name": "Epipremnum aureum var. h",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #243",
+    "scientific_name": "Dracaena trifasciata var. i",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #244",
+    "scientific_name": "Zamioculcas zamiifolia var. j",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #245",
+    "scientific_name": "Zamioculcas zamiifolia var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #246",
+    "scientific_name": "Dracaena trifasciata var. l",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #247",
+    "scientific_name": "Zamioculcas zamiifolia var. m",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #248",
+    "scientific_name": "Spathiphyllum spp. var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #249",
+    "scientific_name": "Zamioculcas zamiifolia var. o",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #250",
+    "scientific_name": "Dracaena trifasciata var. p",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #251",
+    "scientific_name": "Epipremnum aureum var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #252",
+    "scientific_name": "Chlorophytum comosum var. r",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #253",
+    "scientific_name": "Chlorophytum comosum var. s",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #254",
+    "scientific_name": "Epipremnum aureum var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #255",
+    "scientific_name": "Spathiphyllum spp. var. u",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #256",
+    "scientific_name": "Zamioculcas zamiifolia var. v",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #257",
+    "scientific_name": "Zamioculcas zamiifolia var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #258",
+    "scientific_name": "Spathiphyllum spp. var. x",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #259",
+    "scientific_name": "Chlorophytum comosum var. y",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #260",
+    "scientific_name": "Epipremnum aureum var. z",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #261",
+    "scientific_name": "Spathiphyllum spp. var. a",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #262",
+    "scientific_name": "Zamioculcas zamiifolia var. b",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #263",
+    "scientific_name": "Dracaena trifasciata var. c",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #264",
+    "scientific_name": "Chlorophytum comosum var. d",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #265",
+    "scientific_name": "Epipremnum aureum var. e",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #266",
+    "scientific_name": "Chlorophytum comosum var. f",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #267",
+    "scientific_name": "Dracaena trifasciata var. g",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #268",
+    "scientific_name": "Epipremnum aureum var. h",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #269",
+    "scientific_name": "Zamioculcas zamiifolia var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #270",
+    "scientific_name": "Dracaena trifasciata var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #271",
+    "scientific_name": "Zamioculcas zamiifolia var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #272",
+    "scientific_name": "Zamioculcas zamiifolia var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #273",
+    "scientific_name": "Spathiphyllum spp. var. m",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #274",
+    "scientific_name": "Spathiphyllum spp. var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #275",
+    "scientific_name": "Spathiphyllum spp. var. o",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #276",
+    "scientific_name": "Spathiphyllum spp. var. p",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Snake Plant #277",
+    "scientific_name": "Dracaena trifasciata var. q",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Thrives in low light and requires minimal watering. Allow soil to dry between waterings. Ensure proper drainage.",
+    "foliage": "Upright, sword-like, variegated green leaves",
+    "flower": "Rare white-green flowers in ideal conditions",
+    "family": "Asparagaceae",
+    "common_problems": "Overwatering, root rot; occasional pests"
+  },
+  {
+    "common_name": "Pothos #278",
+    "scientific_name": "Epipremnum aureum var. r",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #279",
+    "scientific_name": "Spathiphyllum spp. var. s",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #280",
+    "scientific_name": "Epipremnum aureum var. t",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #281",
+    "scientific_name": "Epipremnum aureum var. u",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Pothos #282",
+    "scientific_name": "Epipremnum aureum var. v",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #283",
+    "scientific_name": "Spathiphyllum spp. var. w",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #284",
+    "scientific_name": "Zamioculcas zamiifolia var. x",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #285",
+    "scientific_name": "Chlorophytum comosum var. y",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #286",
+    "scientific_name": "Spathiphyllum spp. var. z",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #287",
+    "scientific_name": "Zamioculcas zamiifolia var. a",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #288",
+    "scientific_name": "Chlorophytum comosum var. b",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #289",
+    "scientific_name": "Zamioculcas zamiifolia var. c",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #290",
+    "scientific_name": "Zamioculcas zamiifolia var. d",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #291",
+    "scientific_name": "Chlorophytum comosum var. e",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Pothos #292",
+    "scientific_name": "Epipremnum aureum var. f",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #293",
+    "scientific_name": "Zamioculcas zamiifolia var. g",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #294",
+    "scientific_name": "Epipremnum aureum var. h",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #295",
+    "scientific_name": "Spathiphyllum spp. var. i",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  },
+  {
+    "common_name": "Pothos #296",
+    "scientific_name": "Epipremnum aureum var. j",
+    "toxicity": "Toxic to pets",
+    "care_tips": "Low to bright light, water when top inch of soil is dry. Ensure proper drainage.",
+    "foliage": "Heart-shaped, variegated green/yellow leaves",
+    "flower": "Rare in indoor environments",
+    "family": "Araceae",
+    "common_problems": "Leggy growth from low light; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #297",
+    "scientific_name": "Zamioculcas zamiifolia var. k",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "ZZ Plant #298",
+    "scientific_name": "Zamioculcas zamiifolia var. l",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Low-light tolerant, water every 2-3 weeks; avoid soggy soil. Ensure proper drainage.",
+    "foliage": "Glossy, dark green oval-shaped leaves",
+    "flower": "Rarely flowers indoors",
+    "family": "Araceae",
+    "common_problems": "Yellowing leaves from overwatering; occasional pests"
+  },
+  {
+    "common_name": "Spider Plant #299",
+    "scientific_name": "Chlorophytum comosum var. m",
+    "toxicity": "Non-toxic to pets",
+    "care_tips": "Bright, indirect light and moderate watering; tolerates neglect. Ensure proper drainage.",
+    "foliage": "Long, narrow green or variegated leaves",
+    "flower": "Small white flowers on arching stems",
+    "family": "Asparagaceae",
+    "common_problems": "Brown tips from fluoride in water; occasional pests"
+  },
+  {
+    "common_name": "Peace Lily #300",
+    "scientific_name": "Spathiphyllum spp. var. n",
+    "toxicity": "Toxic to pets and humans",
+    "care_tips": "Prefers indirect light, keep soil consistently moist but not soggy. Ensure proper drainage.",
+    "foliage": "Glossy, deep green leaves",
+    "flower": "White spathe with a central spadix",
+    "family": "Araceae",
+    "common_problems": "Brown leaf tips, drooping from underwatering; occasional pests"
+  }
+]
