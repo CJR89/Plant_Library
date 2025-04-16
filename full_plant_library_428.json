@@ -1,0 +1,5126 @@
+[
+  {
+    "name": "Fiddle Leaf Fig 1",
+    "scientific": "fiddle_leaf_fig_species_1",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 2",
+    "scientific": "calathea_species_2",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Chinese Evergreen 3",
+    "scientific": "chinese_evergreen_species_3",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Kentia Palm 4",
+    "scientific": "kentia_palm_species_4",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Monstera 5",
+    "scientific": "monstera_species_5",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Jade Plant 6",
+    "scientific": "jade_plant_species_6",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Boston Fern 7",
+    "scientific": "boston_fern_species_7",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dumb Cane 8",
+    "scientific": "dumb_cane_species_8",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Snake Plant 9",
+    "scientific": "snake_plant_species_9",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Spider Plant 10",
+    "scientific": "spider_plant_species_10",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 11",
+    "scientific": "calathea_species_11",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 12",
+    "scientific": "zz_plant_species_12",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Spider Plant 13",
+    "scientific": "spider_plant_species_13",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 14",
+    "scientific": "boston_fern_species_14",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dumb Cane 15",
+    "scientific": "dumb_cane_species_15",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 16",
+    "scientific": "boston_fern_species_16",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 17",
+    "scientific": "pothos_species_17",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 18",
+    "scientific": "pothos_species_18",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Snake Plant 19",
+    "scientific": "snake_plant_species_19",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Monstera 20",
+    "scientific": "monstera_species_20",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Spider Plant 21",
+    "scientific": "spider_plant_species_21",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dumb Cane 22",
+    "scientific": "dumb_cane_species_22",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 23",
+    "scientific": "pothos_species_23",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Snake Plant 24",
+    "scientific": "snake_plant_species_24",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Cast Iron Plant 25",
+    "scientific": "cast_iron_plant_species_25",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Peace Lily 26",
+    "scientific": "peace_lily_species_26",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Hoya 27",
+    "scientific": "hoya_species_27",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 28",
+    "scientific": "calathea_species_28",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Monstera 29",
+    "scientific": "monstera_species_29",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 30",
+    "scientific": "aloe_vera_species_30",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dracaena 31",
+    "scientific": "dracaena_species_31",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 32",
+    "scientific": "calathea_species_32",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Parlor Palm 33",
+    "scientific": "parlor_palm_species_33",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Cast Iron Plant 34",
+    "scientific": "cast_iron_plant_species_34",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 35",
+    "scientific": "boston_fern_species_35",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 36",
+    "scientific": "boston_fern_species_36",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Spider Plant 37",
+    "scientific": "spider_plant_species_37",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 38",
+    "scientific": "chinese_evergreen_species_38",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Snake Plant 39",
+    "scientific": "snake_plant_species_39",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Calathea 40",
+    "scientific": "calathea_species_40",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 41",
+    "scientific": "calathea_species_41",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Kentia Palm 42",
+    "scientific": "kentia_palm_species_42",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 43",
+    "scientific": "peace_lily_species_43",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 44",
+    "scientific": "boston_fern_species_44",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Jade Plant 45",
+    "scientific": "jade_plant_species_45",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 46",
+    "scientific": "kentia_palm_species_46",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 47",
+    "scientific": "snake_plant_species_47",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 48",
+    "scientific": "peace_lily_species_48",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Peace Lily 49",
+    "scientific": "peace_lily_species_49",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Rubber Plant 50",
+    "scientific": "rubber_plant_species_50",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 51",
+    "scientific": "zz_plant_species_51",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 52",
+    "scientific": "chinese_evergreen_species_52",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Jade Plant 53",
+    "scientific": "jade_plant_species_53",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Fiddle Leaf Fig 54",
+    "scientific": "fiddle_leaf_fig_species_54",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 55",
+    "scientific": "cast_iron_plant_species_55",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 56",
+    "scientific": "zz_plant_species_56",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Hoya 57",
+    "scientific": "hoya_species_57",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Monstera 58",
+    "scientific": "monstera_species_58",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dumb Cane 59",
+    "scientific": "dumb_cane_species_59",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 60",
+    "scientific": "boston_fern_species_60",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 61",
+    "scientific": "cast_iron_plant_species_61",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 62",
+    "scientific": "pothos_species_62",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Pothos 63",
+    "scientific": "pothos_species_63",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Monstera 64",
+    "scientific": "monstera_species_64",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dracaena 65",
+    "scientific": "dracaena_species_65",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Monstera 66",
+    "scientific": "monstera_species_66",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 67",
+    "scientific": "zz_plant_species_67",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dracaena 68",
+    "scientific": "dracaena_species_68",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Cast Iron Plant 69",
+    "scientific": "cast_iron_plant_species_69",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 70",
+    "scientific": "zz_plant_species_70",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Pothos 71",
+    "scientific": "pothos_species_71",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 72",
+    "scientific": "boston_fern_species_72",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Aloe Vera 73",
+    "scientific": "aloe_vera_species_73",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Monstera 74",
+    "scientific": "monstera_species_74",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Parlor Palm 75",
+    "scientific": "parlor_palm_species_75",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 76",
+    "scientific": "chinese_evergreen_species_76",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Rubber Plant 77",
+    "scientific": "rubber_plant_species_77",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Rubber Plant 78",
+    "scientific": "rubber_plant_species_78",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 79",
+    "scientific": "peace_lily_species_79",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Snake Plant 80",
+    "scientific": "snake_plant_species_80",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Kentia Palm 81",
+    "scientific": "kentia_palm_species_81",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Spider Plant 82",
+    "scientific": "spider_plant_species_82",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dracaena 83",
+    "scientific": "dracaena_species_83",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Peace Lily 84",
+    "scientific": "peace_lily_species_84",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 85",
+    "scientific": "boston_fern_species_85",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Kentia Palm 86",
+    "scientific": "kentia_palm_species_86",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 87",
+    "scientific": "snake_plant_species_87",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 88",
+    "scientific": "calathea_species_88",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dracaena 89",
+    "scientific": "dracaena_species_89",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 90",
+    "scientific": "zz_plant_species_90",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 91",
+    "scientific": "aloe_vera_species_91",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "ZZ Plant 92",
+    "scientific": "zz_plant_species_92",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 93",
+    "scientific": "peace_lily_species_93",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Rubber Plant 94",
+    "scientific": "rubber_plant_species_94",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Anthurium 95",
+    "scientific": "anthurium_species_95",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 96",
+    "scientific": "pothos_species_96",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 97",
+    "scientific": "fiddle_leaf_fig_species_97",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Fiddle Leaf Fig 98",
+    "scientific": "fiddle_leaf_fig_species_98",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Anthurium 99",
+    "scientific": "anthurium_species_99",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 100",
+    "scientific": "chinese_evergreen_species_100",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Kentia Palm 101",
+    "scientific": "kentia_palm_species_101",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Peace Lily 102",
+    "scientific": "peace_lily_species_102",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Hoya 103",
+    "scientific": "hoya_species_103",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Chinese Evergreen 104",
+    "scientific": "chinese_evergreen_species_104",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dracaena 105",
+    "scientific": "dracaena_species_105",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Aloe Vera 106",
+    "scientific": "aloe_vera_species_106",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Hoya 107",
+    "scientific": "hoya_species_107",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Rubber Plant 108",
+    "scientific": "rubber_plant_species_108",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 109",
+    "scientific": "calathea_species_109",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 110",
+    "scientific": "cast_iron_plant_species_110",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Rubber Plant 111",
+    "scientific": "rubber_plant_species_111",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Anthurium 112",
+    "scientific": "anthurium_species_112",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 113",
+    "scientific": "pothos_species_113",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 114",
+    "scientific": "calathea_species_114",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 115",
+    "scientific": "zz_plant_species_115",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Calathea 116",
+    "scientific": "calathea_species_116",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 117",
+    "scientific": "pothos_species_117",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Aloe Vera 118",
+    "scientific": "aloe_vera_species_118",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Anthurium 119",
+    "scientific": "anthurium_species_119",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 120",
+    "scientific": "chinese_evergreen_species_120",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Fiddle Leaf Fig 121",
+    "scientific": "fiddle_leaf_fig_species_121",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Boston Fern 122",
+    "scientific": "boston_fern_species_122",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Aloe Vera 123",
+    "scientific": "aloe_vera_species_123",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Parlor Palm 124",
+    "scientific": "parlor_palm_species_124",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Anthurium 125",
+    "scientific": "anthurium_species_125",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Fiddle Leaf Fig 126",
+    "scientific": "fiddle_leaf_fig_species_126",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Cast Iron Plant 127",
+    "scientific": "cast_iron_plant_species_127",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Boston Fern 128",
+    "scientific": "boston_fern_species_128",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 129",
+    "scientific": "peace_lily_species_129",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Pothos 130",
+    "scientific": "pothos_species_130",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Kentia Palm 131",
+    "scientific": "kentia_palm_species_131",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Spider Plant 132",
+    "scientific": "spider_plant_species_132",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 133",
+    "scientific": "calathea_species_133",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Parlor Palm 134",
+    "scientific": "parlor_palm_species_134",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dumb Cane 135",
+    "scientific": "dumb_cane_species_135",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Rubber Plant 136",
+    "scientific": "rubber_plant_species_136",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Jade Plant 137",
+    "scientific": "jade_plant_species_137",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dracaena 138",
+    "scientific": "dracaena_species_138",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Kentia Palm 139",
+    "scientific": "kentia_palm_species_139",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 140",
+    "scientific": "chinese_evergreen_species_140",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Cast Iron Plant 141",
+    "scientific": "cast_iron_plant_species_141",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 142",
+    "scientific": "zz_plant_species_142",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dracaena 143",
+    "scientific": "dracaena_species_143",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 144",
+    "scientific": "boston_fern_species_144",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Rubber Plant 145",
+    "scientific": "rubber_plant_species_145",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Hoya 146",
+    "scientific": "hoya_species_146",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Rubber Plant 147",
+    "scientific": "rubber_plant_species_147",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Spider Plant 148",
+    "scientific": "spider_plant_species_148",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dracaena 149",
+    "scientific": "dracaena_species_149",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Boston Fern 150",
+    "scientific": "boston_fern_species_150",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Hoya 151",
+    "scientific": "hoya_species_151",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 152",
+    "scientific": "boston_fern_species_152",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Snake Plant 153",
+    "scientific": "snake_plant_species_153",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 154",
+    "scientific": "zz_plant_species_154",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dumb Cane 155",
+    "scientific": "dumb_cane_species_155",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 156",
+    "scientific": "zz_plant_species_156",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Monstera 157",
+    "scientific": "monstera_species_157",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Peace Lily 158",
+    "scientific": "peace_lily_species_158",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Spider Plant 159",
+    "scientific": "spider_plant_species_159",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dumb Cane 160",
+    "scientific": "dumb_cane_species_160",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 161",
+    "scientific": "boston_fern_species_161",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Jade Plant 162",
+    "scientific": "jade_plant_species_162",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 163",
+    "scientific": "aloe_vera_species_163",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Fiddle Leaf Fig 164",
+    "scientific": "fiddle_leaf_fig_species_164",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Jade Plant 165",
+    "scientific": "jade_plant_species_165",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 166",
+    "scientific": "snake_plant_species_166",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Aloe Vera 167",
+    "scientific": "aloe_vera_species_167",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Fiddle Leaf Fig 168",
+    "scientific": "fiddle_leaf_fig_species_168",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dumb Cane 169",
+    "scientific": "dumb_cane_species_169",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Anthurium 170",
+    "scientific": "anthurium_species_170",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Jade Plant 171",
+    "scientific": "jade_plant_species_171",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Spider Plant 172",
+    "scientific": "spider_plant_species_172",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 173",
+    "scientific": "calathea_species_173",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dracaena 174",
+    "scientific": "dracaena_species_174",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 175",
+    "scientific": "calathea_species_175",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 176",
+    "scientific": "peace_lily_species_176",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dracaena 177",
+    "scientific": "dracaena_species_177",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 178",
+    "scientific": "pothos_species_178",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Hoya 179",
+    "scientific": "hoya_species_179",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Fiddle Leaf Fig 180",
+    "scientific": "fiddle_leaf_fig_species_180",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 181",
+    "scientific": "zz_plant_species_181",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dumb Cane 182",
+    "scientific": "dumb_cane_species_182",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Kentia Palm 183",
+    "scientific": "kentia_palm_species_183",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Aloe Vera 184",
+    "scientific": "aloe_vera_species_184",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Fiddle Leaf Fig 185",
+    "scientific": "fiddle_leaf_fig_species_185",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Hoya 186",
+    "scientific": "hoya_species_186",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Jade Plant 187",
+    "scientific": "jade_plant_species_187",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Monstera 188",
+    "scientific": "monstera_species_188",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 189",
+    "scientific": "fiddle_leaf_fig_species_189",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 190",
+    "scientific": "zz_plant_species_190",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Rubber Plant 191",
+    "scientific": "rubber_plant_species_191",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Spider Plant 192",
+    "scientific": "spider_plant_species_192",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 193",
+    "scientific": "zz_plant_species_193",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 194",
+    "scientific": "fiddle_leaf_fig_species_194",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dumb Cane 195",
+    "scientific": "dumb_cane_species_195",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dumb Cane 196",
+    "scientific": "dumb_cane_species_196",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 197",
+    "scientific": "boston_fern_species_197",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Jade Plant 198",
+    "scientific": "jade_plant_species_198",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 199",
+    "scientific": "chinese_evergreen_species_199",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 200",
+    "scientific": "zz_plant_species_200",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Monstera 201",
+    "scientific": "monstera_species_201",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Boston Fern 202",
+    "scientific": "boston_fern_species_202",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dumb Cane 203",
+    "scientific": "dumb_cane_species_203",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 204",
+    "scientific": "zz_plant_species_204",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Snake Plant 205",
+    "scientific": "snake_plant_species_205",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Aloe Vera 206",
+    "scientific": "aloe_vera_species_206",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Pothos 207",
+    "scientific": "pothos_species_207",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 208",
+    "scientific": "aloe_vera_species_208",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 209",
+    "scientific": "cast_iron_plant_species_209",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 210",
+    "scientific": "calathea_species_210",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 211",
+    "scientific": "zz_plant_species_211",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Cast Iron Plant 212",
+    "scientific": "cast_iron_plant_species_212",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Hoya 213",
+    "scientific": "hoya_species_213",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Chinese Evergreen 214",
+    "scientific": "chinese_evergreen_species_214",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 215",
+    "scientific": "chinese_evergreen_species_215",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Anthurium 216",
+    "scientific": "anthurium_species_216",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Kentia Palm 217",
+    "scientific": "kentia_palm_species_217",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Aloe Vera 218",
+    "scientific": "aloe_vera_species_218",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 219",
+    "scientific": "snake_plant_species_219",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Cast Iron Plant 220",
+    "scientific": "cast_iron_plant_species_220",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "ZZ Plant 221",
+    "scientific": "zz_plant_species_221",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Spider Plant 222",
+    "scientific": "spider_plant_species_222",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Rubber Plant 223",
+    "scientific": "rubber_plant_species_223",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 224",
+    "scientific": "cast_iron_plant_species_224",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Aloe Vera 225",
+    "scientific": "aloe_vera_species_225",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 226",
+    "scientific": "zz_plant_species_226",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Kentia Palm 227",
+    "scientific": "kentia_palm_species_227",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Parlor Palm 228",
+    "scientific": "parlor_palm_species_228",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 229",
+    "scientific": "kentia_palm_species_229",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Kentia Palm 230",
+    "scientific": "kentia_palm_species_230",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dumb Cane 231",
+    "scientific": "dumb_cane_species_231",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Anthurium 232",
+    "scientific": "anthurium_species_232",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Fiddle Leaf Fig 233",
+    "scientific": "fiddle_leaf_fig_species_233",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Jade Plant 234",
+    "scientific": "jade_plant_species_234",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Pothos 235",
+    "scientific": "pothos_species_235",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Snake Plant 236",
+    "scientific": "snake_plant_species_236",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Kentia Palm 237",
+    "scientific": "kentia_palm_species_237",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 238",
+    "scientific": "snake_plant_species_238",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 239",
+    "scientific": "zz_plant_species_239",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Spider Plant 240",
+    "scientific": "spider_plant_species_240",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Cast Iron Plant 241",
+    "scientific": "cast_iron_plant_species_241",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Snake Plant 242",
+    "scientific": "snake_plant_species_242",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 243",
+    "scientific": "zz_plant_species_243",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Hoya 244",
+    "scientific": "hoya_species_244",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 245",
+    "scientific": "pothos_species_245",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Snake Plant 246",
+    "scientific": "snake_plant_species_246",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Hoya 247",
+    "scientific": "hoya_species_247",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Cast Iron Plant 248",
+    "scientific": "cast_iron_plant_species_248",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 249",
+    "scientific": "aloe_vera_species_249",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Peace Lily 250",
+    "scientific": "peace_lily_species_250",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 251",
+    "scientific": "calathea_species_251",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 252",
+    "scientific": "kentia_palm_species_252",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Parlor Palm 253",
+    "scientific": "parlor_palm_species_253",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Jade Plant 254",
+    "scientific": "jade_plant_species_254",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dracaena 255",
+    "scientific": "dracaena_species_255",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 256",
+    "scientific": "calathea_species_256",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Parlor Palm 257",
+    "scientific": "parlor_palm_species_257",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dumb Cane 258",
+    "scientific": "dumb_cane_species_258",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 259",
+    "scientific": "aloe_vera_species_259",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Snake Plant 260",
+    "scientific": "snake_plant_species_260",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 261",
+    "scientific": "calathea_species_261",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Parlor Palm 262",
+    "scientific": "parlor_palm_species_262",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 263",
+    "scientific": "fiddle_leaf_fig_species_263",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 264",
+    "scientific": "kentia_palm_species_264",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 265",
+    "scientific": "calathea_species_265",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 266",
+    "scientific": "calathea_species_266",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Cast Iron Plant 267",
+    "scientific": "cast_iron_plant_species_267",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Rubber Plant 268",
+    "scientific": "rubber_plant_species_268",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 269",
+    "scientific": "boston_fern_species_269",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Cast Iron Plant 270",
+    "scientific": "cast_iron_plant_species_270",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 271",
+    "scientific": "peace_lily_species_271",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Jade Plant 272",
+    "scientific": "jade_plant_species_272",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Cast Iron Plant 273",
+    "scientific": "cast_iron_plant_species_273",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Monstera 274",
+    "scientific": "monstera_species_274",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dracaena 275",
+    "scientific": "dracaena_species_275",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Kentia Palm 276",
+    "scientific": "kentia_palm_species_276",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Fiddle Leaf Fig 277",
+    "scientific": "fiddle_leaf_fig_species_277",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 278",
+    "scientific": "boston_fern_species_278",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dracaena 279",
+    "scientific": "dracaena_species_279",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Rubber Plant 280",
+    "scientific": "rubber_plant_species_280",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 281",
+    "scientific": "aloe_vera_species_281",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 282",
+    "scientific": "aloe_vera_species_282",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 283",
+    "scientific": "calathea_species_283",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Rubber Plant 284",
+    "scientific": "rubber_plant_species_284",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dracaena 285",
+    "scientific": "dracaena_species_285",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 286",
+    "scientific": "fiddle_leaf_fig_species_286",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Boston Fern 287",
+    "scientific": "boston_fern_species_287",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Snake Plant 288",
+    "scientific": "snake_plant_species_288",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 289",
+    "scientific": "boston_fern_species_289",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Cast Iron Plant 290",
+    "scientific": "cast_iron_plant_species_290",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Calathea 291",
+    "scientific": "calathea_species_291",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Jade Plant 292",
+    "scientific": "jade_plant_species_292",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Boston Fern 293",
+    "scientific": "boston_fern_species_293",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 294",
+    "scientific": "fiddle_leaf_fig_species_294",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Chinese Evergreen 295",
+    "scientific": "chinese_evergreen_species_295",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Jade Plant 296",
+    "scientific": "jade_plant_species_296",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Parlor Palm 297",
+    "scientific": "parlor_palm_species_297",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Monstera 298",
+    "scientific": "monstera_species_298",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "ZZ Plant 299",
+    "scientific": "zz_plant_species_299",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Anthurium 300",
+    "scientific": "anthurium_species_300",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 301",
+    "scientific": "zz_plant_species_301",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 302",
+    "scientific": "chinese_evergreen_species_302",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "ZZ Plant 303",
+    "scientific": "zz_plant_species_303",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Cast Iron Plant 304",
+    "scientific": "cast_iron_plant_species_304",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Rubber Plant 305",
+    "scientific": "rubber_plant_species_305",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Rubber Plant 306",
+    "scientific": "rubber_plant_species_306",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Snake Plant 307",
+    "scientific": "snake_plant_species_307",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 308",
+    "scientific": "aloe_vera_species_308",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 309",
+    "scientific": "peace_lily_species_309",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Spider Plant 310",
+    "scientific": "spider_plant_species_310",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Hoya 311",
+    "scientific": "hoya_species_311",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 312",
+    "scientific": "pothos_species_312",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Chinese Evergreen 313",
+    "scientific": "chinese_evergreen_species_313",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 314",
+    "scientific": "zz_plant_species_314",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 315",
+    "scientific": "pothos_species_315",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Monstera 316",
+    "scientific": "monstera_species_316",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Anthurium 317",
+    "scientific": "anthurium_species_317",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 318",
+    "scientific": "pothos_species_318",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 319",
+    "scientific": "aloe_vera_species_319",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 320",
+    "scientific": "peace_lily_species_320",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 321",
+    "scientific": "chinese_evergreen_species_321",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Calathea 322",
+    "scientific": "calathea_species_322",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 323",
+    "scientific": "boston_fern_species_323",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Hoya 324",
+    "scientific": "hoya_species_324",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dumb Cane 325",
+    "scientific": "dumb_cane_species_325",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 326",
+    "scientific": "kentia_palm_species_326",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Jade Plant 327",
+    "scientific": "jade_plant_species_327",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Parlor Palm 328",
+    "scientific": "parlor_palm_species_328",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Monstera 329",
+    "scientific": "monstera_species_329",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Fiddle Leaf Fig 330",
+    "scientific": "fiddle_leaf_fig_species_330",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Rubber Plant 331",
+    "scientific": "rubber_plant_species_331",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Peace Lily 332",
+    "scientific": "peace_lily_species_332",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "ZZ Plant 333",
+    "scientific": "zz_plant_species_333",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 334",
+    "scientific": "calathea_species_334",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Boston Fern 335",
+    "scientific": "boston_fern_species_335",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Spider Plant 336",
+    "scientific": "spider_plant_species_336",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Parlor Palm 337",
+    "scientific": "parlor_palm_species_337",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 338",
+    "scientific": "chinese_evergreen_species_338",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Kentia Palm 339",
+    "scientific": "kentia_palm_species_339",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Parlor Palm 340",
+    "scientific": "parlor_palm_species_340",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 341",
+    "scientific": "aloe_vera_species_341",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Boston Fern 342",
+    "scientific": "boston_fern_species_342",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dracaena 343",
+    "scientific": "dracaena_species_343",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Cast Iron Plant 344",
+    "scientific": "cast_iron_plant_species_344",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Dumb Cane 345",
+    "scientific": "dumb_cane_species_345",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 346",
+    "scientific": "aloe_vera_species_346",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 347",
+    "scientific": "boston_fern_species_347",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 348",
+    "scientific": "aloe_vera_species_348",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Peace Lily 349",
+    "scientific": "peace_lily_species_349",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Anthurium 350",
+    "scientific": "anthurium_species_350",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Chinese Evergreen 351",
+    "scientific": "chinese_evergreen_species_351",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Spider Plant 352",
+    "scientific": "spider_plant_species_352",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 353",
+    "scientific": "pothos_species_353",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 354",
+    "scientific": "pothos_species_354",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Cast Iron Plant 355",
+    "scientific": "cast_iron_plant_species_355",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Parlor Palm 356",
+    "scientific": "parlor_palm_species_356",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 357",
+    "scientific": "peace_lily_species_357",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Aloe Vera 358",
+    "scientific": "aloe_vera_species_358",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dracaena 359",
+    "scientific": "dracaena_species_359",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Boston Fern 360",
+    "scientific": "boston_fern_species_360",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Parlor Palm 361",
+    "scientific": "parlor_palm_species_361",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Hoya 362",
+    "scientific": "hoya_species_362",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 363",
+    "scientific": "snake_plant_species_363",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Rubber Plant 364",
+    "scientific": "rubber_plant_species_364",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dumb Cane 365",
+    "scientific": "dumb_cane_species_365",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Aloe Vera 366",
+    "scientific": "aloe_vera_species_366",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Spider Plant 367",
+    "scientific": "spider_plant_species_367",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 368",
+    "scientific": "pothos_species_368",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Peace Lily 369",
+    "scientific": "peace_lily_species_369",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Hoya 370",
+    "scientific": "hoya_species_370",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 371",
+    "scientific": "aloe_vera_species_371",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Snake Plant 372",
+    "scientific": "snake_plant_species_372",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 373",
+    "scientific": "pothos_species_373",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Snake Plant 374",
+    "scientific": "snake_plant_species_374",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Calathea 375",
+    "scientific": "calathea_species_375",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 376",
+    "scientific": "cast_iron_plant_species_376",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Calathea 377",
+    "scientific": "calathea_species_377",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Parlor Palm 378",
+    "scientific": "parlor_palm_species_378",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "ZZ Plant 379",
+    "scientific": "zz_plant_species_379",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Aloe Vera 380",
+    "scientific": "aloe_vera_species_380",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dumb Cane 381",
+    "scientific": "dumb_cane_species_381",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Monstera 382",
+    "scientific": "monstera_species_382",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Cast Iron Plant 383",
+    "scientific": "cast_iron_plant_species_383",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "ZZ Plant 384",
+    "scientific": "zz_plant_species_384",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 385",
+    "scientific": "pothos_species_385",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Aloe Vera 386",
+    "scientific": "aloe_vera_species_386",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dracaena 387",
+    "scientific": "dracaena_species_387",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Rubber Plant 388",
+    "scientific": "rubber_plant_species_388",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Peace Lily 389",
+    "scientific": "peace_lily_species_389",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 390",
+    "scientific": "peace_lily_species_390",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Anthurium 391",
+    "scientific": "anthurium_species_391",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Parlor Palm 392",
+    "scientific": "parlor_palm_species_392",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Snake Plant 393",
+    "scientific": "snake_plant_species_393",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Hoya 394",
+    "scientific": "hoya_species_394",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Monstera 395",
+    "scientific": "monstera_species_395",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Chinese Evergreen 396",
+    "scientific": "chinese_evergreen_species_396",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Hoya 397",
+    "scientific": "hoya_species_397",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Hoya 398",
+    "scientific": "hoya_species_398",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Rubber Plant 399",
+    "scientific": "rubber_plant_species_399",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Chinese Evergreen 400",
+    "scientific": "chinese_evergreen_species_400",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Dumb Cane 401",
+    "scientific": "dumb_cane_species_401",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 402",
+    "scientific": "pothos_species_402",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Pothos 403",
+    "scientific": "pothos_species_403",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 404",
+    "scientific": "zz_plant_species_404",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Kentia Palm 405",
+    "scientific": "kentia_palm_species_405",
+    "image": "",
+    "light": "Low light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Spider Plant 406",
+    "scientific": "spider_plant_species_406",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Spider Plant 407",
+    "scientific": "spider_plant_species_407",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Kentia Palm 408",
+    "scientific": "kentia_palm_species_408",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 409",
+    "scientific": "aloe_vera_species_409",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Kentia Palm 410",
+    "scientific": "kentia_palm_species_410",
+    "image": "",
+    "light": "Low light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 411",
+    "scientific": "chinese_evergreen_species_411",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Peace Lily 412",
+    "scientific": "peace_lily_species_412",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Parlor Palm 413",
+    "scientific": "parlor_palm_species_413",
+    "image": "",
+    "light": "Low light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Spider Plant 414",
+    "scientific": "spider_plant_species_414",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Mist",
+      "Rotate"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Aloe Vera 415",
+    "scientific": "aloe_vera_species_415",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Dracaena 416",
+    "scientific": "dracaena_species_416",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Calathea 417",
+    "scientific": "calathea_species_417",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Pothos 418",
+    "scientific": "pothos_species_418",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Chinese Evergreen 419",
+    "scientific": "chinese_evergreen_species_419",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Kentia Palm 420",
+    "scientific": "kentia_palm_species_420",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "ZZ Plant 421",
+    "scientific": "zz_plant_species_421",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 14,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Dumb Cane 422",
+    "scientific": "dumb_cane_species_422",
+    "image": "",
+    "light": "Low light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Avoid cold drafts and overwatering."
+  },
+  {
+    "name": "Dracaena 423",
+    "scientific": "dracaena_species_423",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 3,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Fiddle Leaf Fig 424",
+    "scientific": "fiddle_leaf_fig_species_424",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Fertilize"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  },
+  {
+    "name": "Chinese Evergreen 425",
+    "scientific": "chinese_evergreen_species_425",
+    "image": "",
+    "light": "Low light",
+    "interval": 5,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Wipe leaves to remove dust."
+  },
+  {
+    "name": "Cast Iron Plant 426",
+    "scientific": "cast_iron_plant_species_426",
+    "image": "",
+    "light": "Bright indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Keep humidity high and avoid direct sun."
+  },
+  {
+    "name": "Chinese Evergreen 427",
+    "scientific": "chinese_evergreen_species_427",
+    "image": "",
+    "light": "Medium indirect light",
+    "interval": 10,
+    "tasks": [
+      "Water",
+      "Prune"
+    ],
+    "careTips": "Let soil dry between waterings."
+  },
+  {
+    "name": "Pothos 428",
+    "scientific": "pothos_species_428",
+    "image": "",
+    "light": "Bright direct light",
+    "interval": 7,
+    "tasks": [
+      "Water",
+      "Mist"
+    ],
+    "careTips": "Trim dead leaves to encourage growth."
+  }
+]
